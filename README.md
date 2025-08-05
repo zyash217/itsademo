@@ -1,3 +1,3 @@
 # itsademo
-this is my first  Git repository
-author - aayush jung
+This is my first  Git repository.
+Author - Aayush jung
